@@ -31,7 +31,7 @@ module RosterRailsApi
     config.middleware.insert_before 'Rack::Runtime', 'Rack::Cors' do
       allow do
         origins '*'
-        resources '*',
+        resource '*',
           headers: :any,
           methods: [:get, :put, :post, :patch, :delete, :options]
       end

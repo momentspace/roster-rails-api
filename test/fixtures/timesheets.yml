@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  roster_id: 1
+  at_work: 2016-07-18 10:54:25
+  leave_work: 2016-07-18 10:54:25
+  outgoing: 2016-07-18 10:54:25
+  atwork_kind: 1
+  work_kind: 1
+  rest_time: 2016-07-18 10:54:25
+
+two:
+  roster_id: 1
+  at_work: 2016-07-18 10:54:25
+  leave_work: 2016-07-18 10:54:25
+  outgoing: 2016-07-18 10:54:25
+  atwork_kind: 1
+  work_kind: 1
+  rest_time: 2016-07-18 10:54:25
